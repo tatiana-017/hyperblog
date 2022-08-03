@@ -18,3 +18,27 @@ body
 {
     font-size: 20px;
 }
+
+#cabecera
+{
+    background:rgb(255, 218, 253);
+    box-shadow: 0px 5px 30px 0px rgb(169, 162, 168);
+    color: rgb(65, 65, 65);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#post
+{
+    padding: 1em;
+
+}
+
+#cabecera #tagliner
+{   
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+
+}
